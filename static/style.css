@@ -1,0 +1,20 @@
+h1 {
+  color: #d2d2d2;
+  font-size: 24px;
+}
+
+p {
+  color: rgb(62, 124, 35);
+}
+
+.bd-example-row {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background: linear-gradient(#70197a,#651274);
+    border: 1px solid rgb(211, 156, 201);
+    color: white;
+}
+
+a:link{
+ font-size:20px;
+}
